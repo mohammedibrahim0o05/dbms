@@ -1,4 +1,4 @@
-#  EX 1 ER Diagram Workshop – Submission
+#  Ex 1 ER Diagram Workshop – Submission
 
 ### Name : Mohammed ibrahim mn 
 ### Reg No : 212223100034
